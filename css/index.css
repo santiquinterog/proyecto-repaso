@@ -39,3 +39,12 @@ main img {
     width: 100%;
   }
 }
+
+footer {
+  height: 50px;
+  background-color: greenyellow;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 20px;
+}
