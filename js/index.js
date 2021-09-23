@@ -1,5 +1,5 @@
 var sound = new Howl({
-  src: ['assets/sounds/audio.mp3']
+  src: ['../assets/sounds/audio.mp3']
 });
 
-sound.play();
+/* sound.play(); */
